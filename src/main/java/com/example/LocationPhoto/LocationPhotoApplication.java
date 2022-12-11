@@ -8,6 +8,7 @@ public class LocationPhotoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LocationPhotoApplication.class, args);
+		System.out.println("Hello World!");
 	}
 
 }
